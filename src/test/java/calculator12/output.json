@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2019-11-26T03:56:13.563Z",
+        "start_timestamp": "2019-11-26T04:02:14.432Z",
         "line": 5,
         "name": "Calculator",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5586400,
+              "duration": 4469900,
               "status": "passed"
             },
             "line": 6,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 376300,
+              "duration": 319200,
               "status": "passed"
             },
             "line": 7,
@@ -37,7 +37,7 @@
           },
           {
             "result": {
-              "duration": 790600,
+              "duration": 482600,
               "status": "passed"
             },
             "line": 8,
@@ -49,7 +49,7 @@
           },
           {
             "result": {
-              "duration": 251000,
+              "duration": 661500,
               "status": "passed"
             },
             "line": 9,
@@ -61,7 +61,7 @@
           },
           {
             "result": {
-              "duration": 210200,
+              "duration": 258100,
               "status": "passed"
             },
             "line": 10,

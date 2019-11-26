@@ -13,5 +13,5 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(
 		plugin = {"json:src\\test\\java\\calculator12\\output.json"})
 public class calcci {
-
-}
+ 
+} 
